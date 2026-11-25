@@ -1,0 +1,20 @@
+{
+  "name": "project-studio",
+  "displayName": "Project Studio",
+  "version": "1.0.0",
+  "description": "Scaffold new projects in seconds (stack templates + AGENTS.md + .gitignore + README) and preview/export live UI Kit design systems inside Antigravity.",
+  "author": {
+    "name": "Welpon"
+  },
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": [
+    "scaffold",
+    "kickstart",
+    "templates",
+    "design-system",
+    "ui-kit",
+    "tokens",
+    "mcp-app"
+  ]
+}
